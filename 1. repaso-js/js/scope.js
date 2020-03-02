@@ -1,4 +1,4 @@
-// scope
+// scope: en qué parte del programa una variable está disponible.
 
 /*
 var musica = 'rock';
